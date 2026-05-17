@@ -24,14 +24,7 @@ git push origin main
 if errorlevel 1 goto fail
 
 echo.
-set /p DIRECT_DEPLOY=Also deploy directly with Wrangler now? [y/N]: 
-if /i "%DIRECT_DEPLOY%"=="Y" (
-  call npm run deploy
-  if errorlevel 1 goto fail
-)
-
-echo.
-echo Done.
+echo Done. Cloudflare Pages will deploy from the GitHub push.
 pause
 exit /b 0
 

@@ -34,9 +34,7 @@ It will:
 2. Build the static page.
 3. Commit the changes.
 4. Push to `origin main`.
-5. Optionally deploy directly with Wrangler.
-
-For direct Wrangler deploy, run `npx wrangler login` once first, or provide Cloudflare credentials in your environment.
+5. Let Cloudflare Pages deploy automatically from the GitHub push.
 
 ## Cloudflare Pages
 
@@ -50,7 +48,4 @@ Recommended Cloudflare Pages settings:
 
 You can connect the GitHub repository directly in the Cloudflare dashboard. After that, every push to `main` deploys automatically.
 
-This repo also includes `.github/workflows/deploy-cloudflare-pages.yml` as an alternate GitHub Actions deployment path. To use it, add these GitHub repository secrets:
-
-- `CLOUDFLARE_API_TOKEN`
-- `CLOUDFLARE_ACCOUNT_ID`
+Leave the Cloudflare Pages deploy command empty. This project only needs the build command and output directory above. If a deploy command is set to `npx wrangler pages deploy`, Cloudflare will try to use an API token and may fail with an authentication error.
