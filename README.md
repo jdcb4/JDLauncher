@@ -34,7 +34,7 @@ It will:
 2. Build the static page.
 3. Commit the changes.
 4. Push to `origin main`.
-5. Let Cloudflare Pages deploy automatically from the GitHub push.
+5. Let Cloudflare Pages build and deploy from the GitHub push.
 
 ## Cloudflare Pages
 
@@ -44,8 +44,14 @@ Recommended Cloudflare Pages settings:
 - Production branch: `main`
 - Build command: `npm run build`
 - Build output directory: `dist`
+- Deploy command: `npm run deploy`
 - Node version: `22`
 
 You can connect the GitHub repository directly in the Cloudflare dashboard. After that, every push to `main` deploys automatically.
 
-Leave the Cloudflare Pages deploy command empty. This project only needs the build command and output directory above. If a deploy command is set to `npx wrangler pages deploy`, Cloudflare will try to use an API token and may fail with an authentication error.
+The deploy command uses Wrangler direct upload, so the Cloudflare project must have these environment variables:
+
+- `CLOUDFLARE_ACCOUNT_ID`
+- `CLOUDFLARE_API_TOKEN`
+
+The API token must include account-level `Cloudflare Pages:Edit` permission for the account that owns the `jdlauncher` Pages project.

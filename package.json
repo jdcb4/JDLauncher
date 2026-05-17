@@ -5,6 +5,10 @@
   "description": "Static launcher page for JD's projects.",
   "scripts": {
     "build": "node scripts/build.js",
+    "deploy": "wrangler pages deploy dist --project-name jdlauncher --branch main",
     "publish": "npm run build && git add . && git commit -m \"Update launcher\" && git push origin main"
+  },
+  "devDependencies": {
+    "wrangler": "^4.16.1"
   }
 }

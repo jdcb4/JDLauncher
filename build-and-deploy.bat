@@ -10,7 +10,7 @@ call npm run build
 if errorlevel 1 goto fail
 
 echo.
-echo Committing and pushing to GitHub. Cloudflare Pages will deploy automatically if the Pages project is connected to this repo.
+echo Committing and pushing to GitHub. Cloudflare Pages will build and deploy automatically if the Pages project is connected to this repo.
 git status --short
 echo.
 set /p COMMIT_MESSAGE=Commit message [Update launcher]: 
@@ -24,7 +24,7 @@ git push origin main
 if errorlevel 1 goto fail
 
 echo.
-echo Done. Cloudflare Pages will deploy from the GitHub push.
+echo Done. Cloudflare Pages will build and deploy from the GitHub push.
 pause
 exit /b 0
 
