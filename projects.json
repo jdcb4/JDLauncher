@@ -1,0 +1,38 @@
+[
+  {
+    "name": "RVLRY",
+    "category": "Game",
+    "description": "JD's Parlour Game collection WhoWhatWhere, Hat Game, Imposter, DrawNGuess. Pass-N-Play with a single phone, or host online.",
+    "url": "https://rvlry.jboxgames.com/"
+  },
+  {
+    "name": "Quick Quiz",
+    "category": "Game",
+    "description": "Quiz hosting platform. Use our questions or bring your own. Great for hosting trivia over Teams or Zoom.",
+    "url": "https://quiz.jboxgames.com/"
+  },
+  {
+    "name": "TriviaManager",
+    "category": "Tool",
+    "description": "Tool to help manage trivia question bank.",
+    "url": "https://triviamanager.jboxgames.com/"
+  },
+  {
+    "name": "WordListManager",
+    "category": "Tool",
+    "description": "Tool to help manage word banks for guessing games.",
+    "url": "https://wordmanager.jboxgames.com/"
+  },
+  {
+    "name": "BracketFactory",
+    "category": "Tool",
+    "description": "Easily build custom brackets for 3D printing in browser by tweaking parameters.",
+    "url": "https://jdcb4.github.io/BracketFactory/"
+  },
+  {
+    "name": "HSC Legal Exam Generator",
+    "category": "Tool",
+    "description": "Make practice HSC Legal Studies tests using past HSC exam questions.",
+    "url": "https://hsc.jboxgames.com/"
+  }
+]
