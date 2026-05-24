@@ -12,6 +12,18 @@
     "url": "https://quiz.jboxgames.com/"
   },
   {
+    "name": "EmojiTranslator",
+    "category": "Tool",
+    "description": "Convert movie names to emojis.",
+    "url": "https://emoji.jboxgames.com/"
+  },
+    {
+    "name": "Trivia Night Creator",
+    "category": "Tool",
+    "description": "Everything you need to organsie a sociial trivia night. Build the quiz, manage the teams, record the scores, keep the leaderboard.",
+    "url": "https://trivia.jboxgames.com/"
+  },
+{
     "name": "TriviaManager",
     "category": "Tool",
     "description": "Tool to help manage trivia question bank.",
