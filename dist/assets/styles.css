@@ -104,20 +104,12 @@ h3 {
 .wordmark {
   display: inline-flex;
   align-items: center;
-  gap: 11px;
-  font-family: var(--display);
-  font-size: 25px;
-  font-weight: 800;
-  letter-spacing: -0.04em;
+  flex-shrink: 0;
 }
-.brand-mark {
-  width: 36px;
-  height: 36px;
-  color: var(--crimson);
-  stroke: none;
-}
-.wordmark-light {
-  font-weight: 500;
+.brand-logo {
+  display: block;
+  width: 240px;
+  height: auto;
 }
 .site-header nav {
   display: flex;
@@ -424,9 +416,9 @@ h3 {
   gap: 25px;
 }
 .footer-brand {
-  font-family: var(--display);
-  font-size: 16px;
-  font-weight: 750;
+  display: block;
+  width: 150px;
+  height: auto;
 }
 @media (max-width: 1000px) {
   .wrap {
@@ -456,13 +448,8 @@ h3 {
     min-height: 72px;
     gap: 15px;
   }
-  .wordmark {
-    font-size: 21px;
-    gap: 8px;
-  }
-  .brand-mark {
-    width: 29px;
-    height: 29px;
+  .brand-logo {
+    width: 160px;
   }
   .site-header nav {
     gap: 18px;

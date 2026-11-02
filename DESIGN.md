@@ -99,13 +99,15 @@ Projects use two columns, then one below 700px. Artwork is 240px tall, reducing 
 
 ## Elevation & Depth
 
-Use flat surfaces, subtle rules and the about band's tone. No playing-card illustration or decorative shadows remain.
+Use flat surfaces, subtle rules and the about band's tone. The approved brand artwork retains its original shading; other page surfaces remain flat.
 
 ## Shapes
 
-Retain 14px artwork corners, outlined category capsules, the rounded-square brand mark and circular opening arrows. Artwork contains simple diamond and star geometry.
+Retain 14px artwork corners, outlined category capsules and circular opening arrows. The approved brand mark is a crimson J game box with two cards, including an Ash Bloom outline around the rear cotton card so it remains visible on white. Game artwork contains simple diamond and star geometry.
 
 ## Components
+
+The header and footer use the approved original JBOXGames logo with the outlined pale card (2 November 2026). `assets/jboxgames-logo.webp` is the optimized transparent lockup, rendered at 240px wide on desktop and 160px on mobile; the footer uses 150px. `assets/favicon.png` and `assets/apple-touch-icon.png` use the matching approved icon. Full-resolution masters and generation prompts are retained in `output/branding/` and excluded from the publish allowlist.
 
 Each game has exactly one link, on its artwork. Follow with its title, category and description; the pending Google Play note is plain text. Navigation, contact and GitHub links retain visible keyboard focus. The crimson primary button is used only by the 404 page to return home.
 

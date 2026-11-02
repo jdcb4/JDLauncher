@@ -1,0 +1,24 @@
+JBOXGames approved original direction: pale-card contrast revision
+Generated with built-in ImageGen on 2 November 2026.
+Change: Ash Bloom #8C7E74 contour around rear cotton card. Transparent v2 logo and icon plus white-background logo proof. Original assets retained.
+
+logo-outlined
+
+Use case: precise-object-edit.
+This is an approved finished JBOXGames brand asset. Make exactly one local modification: add a clean continuous medium-weight warm grey-brown outline (#8C7E74, Ash Bloom from the brand palette) around the PALE COTTON CARD behind the amber card. The pale card currently disappears into white backgrounds. The outline should follow only the visible top and left contours of that pale card, naturally disappearing where the front amber card and red box overlap it. Preserve rounded corners. Outline thickness about 2.5 percent of that pale card's full width, sufficiently strong to remain visible when logo is scaled down, restrained and tidy. Keep the pale card's cotton interior.
+PRESERVE: exact crimson box, cream J, amber card and cream diamond, shapes, positions, proportions, image framing, scale, margins and all other colors. No new decorations or elements. No outlining the entire emblem, no drop shadow. Do not redesign or retype anything.
+Output genuine alpha transparency around the artwork, never white background or checkerboard.
+Edit target: original horizontal logo. Keep the entire charcoal wordmark 'JBOXGames' precisely as it is, including font, kerning, letter shapes, size and placement. Keep original wide aspect ratio. Only outline the rear pale card in the left emblem.
+
+icon-outlined
+
+Use case: precise-object-edit.
+This is an approved finished JBOXGames brand asset. Make exactly one local modification: add a clean continuous medium-weight warm grey-brown outline (#8C7E74, Ash Bloom from the brand palette) around the PALE COTTON CARD behind the amber card. The pale card currently disappears into white backgrounds. The outline should follow only the visible top and left contours of that pale card, naturally disappearing where the front amber card and red box overlap it. Preserve rounded corners. Outline thickness about 2.5 percent of that pale card's full width, sufficiently strong to remain visible when logo is scaled down, restrained and tidy. Keep the pale card's cotton interior.
+PRESERVE: exact crimson box, cream J, amber card and cream diamond, shapes, positions, proportions, image framing, scale, margins and all other colors. No new decorations or elements. No outlining the entire emblem, no drop shadow. Do not redesign or retype anything.
+Output genuine alpha transparency around the artwork, never white background or checkerboard.
+Edit target: original standalone square icon. Retain its square framing and all icon geometry. Only outline the rear pale card.
+
+White proof
+
+Use case: precise-object-edit.
+The supplied image is the approved JBOXGames horizontal logo with an Ash Bloom warm grey-brown outline around the rear cotton card. Create a pure-white-background version for verifying that outline. Change ONLY the transparent background to flat solid pure white #FFFFFF. Preserve the entire exact wordmark "JBOXGames", emblem, outline, colors, original dimensions/aspect, all positions, typography, scale and margins. Particularly preserve the strong warm grey contour around the visible top and left edges of the back cotton card, so the cotton card remains legible on white. No shadows, textures, mockups, additional text or elements. Output only the complete horizontal logo on pure white.
