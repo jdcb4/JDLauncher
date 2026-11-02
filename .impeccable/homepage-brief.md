@@ -1,17 +1,17 @@
 # Homepage
 
-Mode: persuade. Visitors should understand who JD is and find a game or his contact details immediately. Joe approved the independent games workshop direction and delegated the remaining choices; use code-led implementation.
+Mode: persuade. Help visitors find the two games and JD's contact details.
 
 ## Direction contract
 
-THESIS: A friendly independent games workshop, where typography and a hand of playing cards express making games for shared company. Replace the old multi-tool launcher with the two requested games.
+THESIS: A compact developer homepage; game artwork supplies its character.
 
-OWN-WORLD: Cotton paper, charcoal ink, crimson play surfaces, and amber details. Bricolage Grotesque display lettering, Manrope body, generous unboxed space, simple line icons, and gently rounded project artwork.
+OWN-WORLD: Retain cotton, charcoal, crimson and amber, existing local fonts and game panels. No decorative PLAY hand or slogans.
 
-STORY: Meet the hobby developer; discover games for friends; open RVLRY or Quick Quiz; contact JD or explore his GitHub.
+STORY: See the games, open a game through its artwork, or find contact and GitHub.
 
-FIRST VIEWPORT: Compact wordmark and navigation, an oversized left-aligned three-line invitation, introduction and project action, with a fan of oversized letter cards on the right. The next section begins with two distinct project panels. Signature motion: the letter hand deals into place once and opens slightly on pointer hover, with a static reduced-motion fallback.
+FIRST VIEWPORT: Compact header and headline/location introduction followed immediately by the project grid. Each game has one link on its artwork. Reduce section padding.
 
-FORM: Grounded candidate 5, independent games workshop. Seed 122b5551. Grounded set: games night invitation, pocket game packaging, maker's notebook, independent game catalogue, games workshop, club noticeboard, word-game score sheet. User-approved palette and delegated direction take precedence over challenger forms. Challengers declined on product clarity: menagerie, brick instructions, viewfinder, parametric identity, pigment bath, departure board. Retained disciplines: intentional motion, alignment, framing, coherent geometry, color commitment, scanability.
+FORM: User-directed simplification of the existing independent games workshop (original seed 122b5551). The user's 2 November 2026 corrections replace the original card-hand and spacious hero direction.
 
-FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
+FINISH: Build, inspect desktop/mobile, update design documentation and publish to the existing Cloudflare Pages domains.

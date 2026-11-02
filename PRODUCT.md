@@ -28,7 +28,7 @@ Visitors discovering JD's projects, looking for a game to play with friends, or 
 
 ## Brand Commitments
 
-JBOXGames. Clean, modern independent games workshop. Suggested palette: Raw Cotton #F6F4EE, Spades Black #1F2226, Maduro Brown #4A2E1B, Ash Bloom #8C7E74, Velvet Crimson #9E2A2B, Finale Amber #D4A373. Joe allows appropriate variation.
+JBOXGames. Clean, modern independent games workshop. Suggested palette: Raw Cotton #F6F4EE, Spades Black #1F2226, Maduro Brown #4A2E1B, Ash Bloom #8C7E74, Velvet Crimson #9E2A2B, Finale Amber #D4A373. Joe allows appropriate variation. Subsequent direction: keep the page compact and direct; omit decorative PLAY artwork, repeated slogans, duplicate game links and the hero project button.
 
 ## Evidence on Hand
 
