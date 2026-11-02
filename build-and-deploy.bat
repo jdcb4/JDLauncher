@@ -2,8 +2,8 @@
 setlocal
 cd /d "%~dp0"
 
-echo Building JDLauncher...
-call npm install
+echo Building JBOXGames...
+call npm ci
 if errorlevel 1 goto fail
 
 call npm run build
@@ -13,8 +13,8 @@ echo.
 echo Committing and pushing to GitHub. Cloudflare Pages will build and deploy automatically if the Pages project is connected to this repo.
 git status --short
 echo.
-set /p COMMIT_MESSAGE=Commit message [Update launcher]: 
-if "%COMMIT_MESSAGE%"=="" set COMMIT_MESSAGE=Update launcher
+set /p COMMIT_MESSAGE=Commit message [Update JBOXGames homepage]:
+if "%COMMIT_MESSAGE%"=="" set COMMIT_MESSAGE=Update JBOXGames homepage
 
 git add .
 git commit -m "%COMMIT_MESSAGE%"

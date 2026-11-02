@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jboxgames.com/sitemap.xml

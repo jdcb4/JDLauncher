@@ -2,3 +2,7 @@ node_modules/
 .wrangler/
 .env
 .env.*
+.impeccable/review/
+.impeccable/mocks/
+.impeccable/seeds/
+work/

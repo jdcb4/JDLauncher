@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-02T11:05:15.108Z",
+  "title": "Design System: JBOXGames",
+  "extensions": {
+    "colorMeta": {
+      "cotton": {
+        "role": "neutral",
+        "displayName": "Raw Cotton",
+        "canonical": "#f6f4ee",
+        "tonalRamp": [
+          "oklch(15.00% 0.0082 91.48)",
+          "oklch(26.43% 0.0082 91.48)",
+          "oklch(37.86% 0.0082 91.48)",
+          "oklch(49.29% 0.0082 91.48)",
+          "oklch(60.71% 0.0082 91.48)",
+          "oklch(72.14% 0.0082 91.48)",
+          "oklch(83.57% 0.0082 91.48)",
+          "oklch(95.00% 0.0082 91.48)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Spades Black",
+        "canonical": "#1f2226",
+        "tonalRamp": [
+          "oklch(15.00% 0.0088 255.59)",
+          "oklch(26.43% 0.0088 255.59)",
+          "oklch(37.86% 0.0088 255.59)",
+          "oklch(49.29% 0.0088 255.59)",
+          "oklch(60.71% 0.0088 255.59)",
+          "oklch(72.14% 0.0088 255.59)",
+          "oklch(83.57% 0.0088 255.59)",
+          "oklch(95.00% 0.0088 255.59)"
+        ]
+      },
+      "brown": {
+        "role": "secondary",
+        "displayName": "Maduro Brown",
+        "canonical": "#4a2e1b",
+        "tonalRamp": [
+          "oklch(15.00% 0.0513 54.16)",
+          "oklch(26.43% 0.0513 54.16)",
+          "oklch(37.86% 0.0513 54.16)",
+          "oklch(49.29% 0.0513 54.16)",
+          "oklch(60.71% 0.0513 54.16)",
+          "oklch(72.14% 0.0513 54.16)",
+          "oklch(83.57% 0.0513 54.16)",
+          "oklch(95.00% 0.0513 54.16)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Warm Gray",
+        "canonical": "#655e58",
+        "tonalRamp": [
+          "oklch(15.00% 0.0131 63.16)",
+          "oklch(26.43% 0.0131 63.16)",
+          "oklch(37.86% 0.0131 63.16)",
+          "oklch(49.29% 0.0131 63.16)",
+          "oklch(60.71% 0.0131 63.16)",
+          "oklch(72.14% 0.0131 63.16)",
+          "oklch(83.57% 0.0131 63.16)",
+          "oklch(95.00% 0.0131 63.16)"
+        ]
+      },
+      "crimson": {
+        "role": "primary",
+        "displayName": "Velvet Crimson",
+        "canonical": "#9e2a2b",
+        "tonalRamp": [
+          "oklch(15.00% 0.1523 24.87)",
+          "oklch(26.43% 0.1523 24.87)",
+          "oklch(37.86% 0.1523 24.87)",
+          "oklch(49.29% 0.1523 24.87)",
+          "oklch(60.71% 0.1523 24.87)",
+          "oklch(72.14% 0.1523 24.87)",
+          "oklch(83.57% 0.1523 24.87)",
+          "oklch(95.00% 0.1523 24.87)"
+        ]
+      },
+      "amber": {
+        "role": "secondary",
+        "displayName": "Finale Amber",
+        "canonical": "#d4a373",
+        "tonalRamp": [
+          "oklch(15.00% 0.0861 65.30)",
+          "oklch(26.43% 0.0861 65.30)",
+          "oklch(37.86% 0.0861 65.30)",
+          "oklch(49.29% 0.0861 65.30)",
+          "oklch(60.71% 0.0861 65.30)",
+          "oklch(72.14% 0.0861 65.30)",
+          "oklch(83.57% 0.0861 65.30)",
+          "oklch(95.00% 0.0861 65.30)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Warm Divider",
+        "canonical": "#d9d4ca",
+        "tonalRamp": [
+          "oklch(15.00% 0.0147 84.59)",
+          "oklch(26.43% 0.0147 84.59)",
+          "oklch(37.86% 0.0147 84.59)",
+          "oklch(49.29% 0.0147 84.59)",
+          "oklch(60.71% 0.0147 84.59)",
+          "oklch(72.14% 0.0147 84.59)",
+          "oklch(83.57% 0.0147 84.59)",
+          "oklch(95.00% 0.0147 84.59)"
+        ]
+      },
+      "card-paper": {
+        "role": "neutral",
+        "displayName": "Card Paper",
+        "canonical": "#fffdf6",
+        "tonalRamp": [
+          "oklch(15.00% 0.0095 93.57)",
+          "oklch(26.43% 0.0095 93.57)",
+          "oklch(37.86% 0.0095 93.57)",
+          "oklch(49.29% 0.0095 93.57)",
+          "oklch(60.71% 0.0095 93.57)",
+          "oklch(72.14% 0.0095 93.57)",
+          "oklch(83.57% 0.0095 93.57)",
+          "oklch(95.00% 0.0095 93.57)"
+        ]
+      },
+      "card-border": {
+        "role": "neutral",
+        "displayName": "Card Border",
+        "canonical": "#d8d1c4",
+        "tonalRamp": [
+          "oklch(15.00% 0.0193 83.06)",
+          "oklch(26.43% 0.0193 83.06)",
+          "oklch(37.86% 0.0193 83.06)",
+          "oklch(49.29% 0.0193 83.06)",
+          "oklch(60.71% 0.0193 83.06)",
+          "oklch(72.14% 0.0193 83.06)",
+          "oklch(83.57% 0.0193 83.06)",
+          "oklch(95.00% 0.0193 83.06)"
+        ]
+      },
+      "about-surface": {
+        "role": "neutral",
+        "displayName": "About Surface",
+        "canonical": "#ebe7de",
+        "tonalRamp": [
+          "oklch(15.00% 0.0128 86.83)",
+          "oklch(26.43% 0.0128 86.83)",
+          "oklch(37.86% 0.0128 86.83)",
+          "oklch(49.29% 0.0128 86.83)",
+          "oklch(60.71% 0.0128 86.83)",
+          "oklch(72.14% 0.0128 86.83)",
+          "oklch(83.57% 0.0128 86.83)",
+          "oklch(95.00% 0.0128 86.83)"
+        ]
+      },
+      "quiet-on-ink": {
+        "role": "neutral",
+        "displayName": "Quiet Text on Ink",
+        "canonical": "#d0c9bc",
+        "tonalRamp": [
+          "oklch(15.00% 0.0194 83.06)",
+          "oklch(26.43% 0.0194 83.06)",
+          "oklch(37.86% 0.0194 83.06)",
+          "oklch(49.29% 0.0194 83.06)",
+          "oklch(60.71% 0.0194 83.06)",
+          "oklch(72.14% 0.0194 83.06)",
+          "oklch(83.57% 0.0194 83.06)",
+          "oklch(95.00% 0.0194 83.06)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Primary Hover",
+        "canonical": "#7e2022",
+        "tonalRamp": [
+          "oklch(15.00% 0.1285 24.16)",
+          "oklch(26.43% 0.1285 24.16)",
+          "oklch(37.86% 0.1285 24.16)",
+          "oklch(49.29% 0.1285 24.16)",
+          "oklch(60.71% 0.1285 24.16)",
+          "oklch(72.14% 0.1285 24.16)",
+          "oklch(83.57% 0.1285 24.16)",
+          "oklch(95.00% 0.1285 24.16)"
+        ]
+      },
+      "crimson-art-hover": {
+        "role": "primary",
+        "displayName": "Crimson Artwork Hover",
+        "canonical": "#8d2426",
+        "tonalRamp": [
+          "oklch(15.00% 0.1405 24.41)",
+          "oklch(26.43% 0.1405 24.41)",
+          "oklch(37.86% 0.1405 24.41)",
+          "oklch(49.29% 0.1405 24.41)",
+          "oklch(60.71% 0.1405 24.41)",
+          "oklch(72.14% 0.1405 24.41)",
+          "oklch(83.57% 0.1405 24.41)",
+          "oklch(95.00% 0.1405 24.41)"
+        ]
+      },
+      "ink-art-hover": {
+        "role": "neutral",
+        "displayName": "Ink Artwork Hover",
+        "canonical": "#2c3035",
+        "tonalRamp": [
+          "oklch(15.00% 0.0106 253.99)",
+          "oklch(26.43% 0.0106 253.99)",
+          "oklch(37.86% 0.0106 253.99)",
+          "oklch(49.29% 0.0106 253.99)",
+          "oklch(60.71% 0.0106 253.99)",
+          "oklch(72.14% 0.0106 253.99)",
+          "oklch(83.57% 0.0106 253.99)",
+          "oklch(95.00% 0.0106 253.99)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Main invitation; responsive overrides are documented in Layout."
+      },
+      "headline": {
+        "displayName": "Section Headline",
+        "purpose": "Project-section heading."
+      },
+      "title": {
+        "displayName": "Project Title",
+        "purpose": "Project names beneath artwork."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default document type; project copy has a smaller local treatment."
+      },
+      "label": {
+        "displayName": "Small Label",
+        "purpose": "Notes and category labels."
+      }
+    },
+    "shadows": [
+      {
+        "name": "playing-card",
+        "value": "0 10px 24px #4a2e1b1c",
+        "purpose": "Soft warm depth beneath overlapping letter cards."
+      }
+    ],
+    "motion": [
+      {
+        "name": "deal",
+        "value": "0.85s cubic-bezier(0.16, 1, 0.3, 1) backwards",
+        "purpose": "Once on load; delays 0/70/140/210ms. Backwards fill releases the transform for hover."
+      },
+      {
+        "name": "card-spread",
+        "value": "transform 0.65s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Outside cards open slightly on hover."
+      },
+      {
+        "name": "action-color",
+        "value": "background 0.2s ease",
+        "purpose": "Primary action and opening-arrow background."
+      },
+      {
+        "name": "artwork-color",
+        "value": "background 0.25s ease",
+        "purpose": "Game artwork hover."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none; transition: none; scroll-behavior: auto",
+        "purpose": "Static hand including hover; remove the observed transitions and smooth scroll."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-hero",
+        "value": "min-width: 1500px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "max-width: 1000px"
+      },
+      {
+        "name": "single-column",
+        "value": "max-width: 700px"
+      },
+      {
+        "name": "tablet-hand",
+        "value": "min-width: 701px and max-width: 1100px"
+      },
+      {
+        "name": "narrow-mobile",
+        "value": "max-width: 380px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Crimson link for the main page action.",
+      "html": "<a class=\"ds-primary\" href=\"#projects\">Find your next game <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 5v14m-6-6 6 6 6-6\"/></svg></a>",
+      "css": ".ds-primary{font-family:var(--body,Manrope,\"Segoe UI\",sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:25px;min-height:55px;padding:14px 23px;border-radius:7px;background:var(--crimson,#9e2a2b);color:var(--cotton,#f6f4ee);font-size:14px;font-weight:700;text-decoration:none;transition:background .2s ease}.ds-primary:hover{background:#7e2022}.ds-primary svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}.ds-primary svg{width:19px;height:19px}.ds-primary:focus-visible{outline:3px solid var(--crimson,#9e2a2b);outline-offset:6px;border-radius:3px}@media(prefers-reduced-motion:reduce){.ds-primary{transition:none}}"
+    },
+    {
+      "name": "Text Action",
+      "kind": "button",
+      "description": "Compact project or footer link.",
+      "html": "<a class=\"ds-text\" href=\"#project\">Play RVLRY <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 18 18 6M6 6h12v12\"/></svg></a>",
+      "css": ".ds-text{font-family:var(--body,Manrope,\"Segoe UI\",sans-serif);display:inline-flex;align-items:center;gap:12px;min-height:40px;font-size:13px;font-weight:750;color:var(--ink,#1f2226);text-decoration:none;text-underline-offset:5px}.ds-text:hover{color:var(--crimson,#9e2a2b);text-decoration:underline}.ds-text svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}.ds-text:focus-visible{outline:3px solid var(--crimson,#9e2a2b);outline-offset:6px;border-radius:3px}"
+    },
+    {
+      "name": "Main Navigation",
+      "kind": "nav",
+      "description": "Visible horizontal anchors; contact is omitted on small screens.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#projects\">Projects</a><a href=\"#about\">About</a><a class=\"ds-contact\" href=\"mailto:JD@jboxgames.com\">Say hello <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 18 18 6M6 6h12v12\"/></svg></a></nav>",
+      "css": ".ds-nav{font-family:var(--body,Manrope,\"Segoe UI\",sans-serif);display:flex;gap:34px;align-items:center;font-size:14px;font-weight:650;color:var(--ink,#1f2226)}.ds-nav a{padding-block:10px;color:inherit;text-decoration:none}.ds-nav a:hover{color:var(--crimson,#9e2a2b)}.ds-contact{display:inline-flex;gap:10px;align-items:center}.ds-nav svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}.ds-nav svg{width:17px;height:17px}.ds-nav a:focus-visible{outline:3px solid var(--crimson,#9e2a2b);outline-offset:6px;border-radius:3px}@media(max-width:700px){.ds-nav{gap:18px;font-size:12px}.ds-nav .ds-contact{display:none}}"
+    },
+    {
+      "name": "Project Category",
+      "kind": "chip",
+      "refersTo": "project-kind",
+      "description": "Non-interactive outlined category label.",
+      "html": "<span class=\"ds-kind\">Parlour games</span>",
+      "css": ".ds-kind{font-family:var(--body,Manrope,\"Segoe UI\",sans-serif);display:inline-block;font-size:12px;line-height:1.65;color:var(--muted,#655e58);border:1px solid var(--line,#d9d4ca);border-radius:20px;padding:4px 11px;white-space:nowrap}"
+    },
+    {
+      "name": "RVLRY Artwork",
+      "kind": "card",
+      "refersTo": "project-art-rvlry",
+      "description": "Typographic crimson project panel with fine diamond geometry.",
+      "html": "<a class=\"ds-rvlry\" href=\"#rvlry\" aria-label=\"Play RVLRY\"><span class=\"ds-edge\">GOOD FRIENDS. GREAT RIVALS.</span><span class=\"ds-rvlry-logo\">RVLRY<span>.</span></span><span class=\"ds-tagline\">One more round?</span><span class=\"ds-open\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 18 18 6M6 6h12v12\"/></svg></span><span class=\"ds-diamond ds-one\"></span><span class=\"ds-diamond ds-two\"></span></a>",
+      "css": ".ds-rvlry{font-family:var(--body,Manrope,\"Segoe UI\",sans-serif);position:relative;display:flex;height:278px;border-radius:14px;overflow:hidden;align-items:center;justify-content:center;flex-direction:column;background:var(--crimson,#9e2a2b);color:var(--cotton,#f6f4ee);text-decoration:none;transition:background .25s ease}.ds-rvlry:hover{background:#8d2426}.ds-edge{position:absolute;top:24px;left:27px;font-size:11px;letter-spacing:.08em;font-weight:650}.ds-rvlry-logo{font-family:var(--display,Bricolage,Georgia,serif);font-size:clamp(72px,7.5vw,110px);line-height:1;letter-spacing:-.04em;font-weight:800;z-index:1}.ds-rvlry-logo>span{color:var(--amber,#d4a373)}.ds-tagline{font-size:12px;margin-top:11px;z-index:1}.ds-open{position:absolute;bottom:23px;right:25px;display:grid;place-items:center;width:34px;height:34px;border:1px solid #f6f4ee60;border-radius:50%;transition:background .2s ease}.ds-rvlry:hover .ds-open{background:#f6f4ee18}.ds-open svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}.ds-open svg{width:17px;height:17px}.ds-diamond{position:absolute;width:90px;height:90px;border:1px solid #f6f4ee22;transform:rotate(45deg)}.ds-one{bottom:-26px;left:6px}.ds-two{top:-22px;right:-20px;width:128px;height:128px}.ds-rvlry:focus-visible{outline:3px solid var(--crimson,#9e2a2b);outline-offset:6px;border-radius:3px}@media(max-width:1000px){.ds-rvlry{height:250px}}@media(max-width:700px){.ds-rvlry-logo{font-size:94px}.ds-edge{font-size:10px;left:22px;top:22px}}@media(prefers-reduced-motion:reduce){.ds-rvlry,.ds-open{transition:none}}"
+    },
+    {
+      "name": "Quick Quiz Artwork",
+      "kind": "card",
+      "refersTo": "project-art-quiz",
+      "description": "Ink project panel with stacked lettering and an amber vector star.",
+      "html": "<a class=\"ds-quiz\" href=\"#quiz\" aria-label=\"Open Quick Quiz\"><span class=\"ds-quiz-edge\">BRING YOUR QUESTIONS. BRING YOUR PEOPLE.</span><span class=\"ds-quiz-logo\">Quick<br><span>Quiz</span><svg class=\"ds-star\" viewBox=\"0 0 100 100\" aria-hidden=\"true\"><path d=\"M50 2v96M2 50h96M16 16l68 68M16 84l68-68\"/></svg></span><span class=\"ds-quiz-tagline\">Make a night of it.</span><span class=\"ds-quiz-open\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 18 18 6M6 6h12v12\"/></svg></span></a>",
+      "css": ".ds-quiz{font-family:var(--body,Manrope,\"Segoe UI\",sans-serif);position:relative;display:flex;height:278px;border-radius:14px;overflow:hidden;align-items:center;justify-content:center;flex-direction:column;background:var(--ink,#1f2226);color:var(--cotton,#f6f4ee);text-decoration:none;transition:background .25s ease}.ds-quiz:hover{background:#2c3035}.ds-quiz-edge{position:absolute;top:24px;left:27px;font-size:11px;letter-spacing:.08em;font-weight:650;color:#d0c9bc}.ds-quiz-logo{font-family:var(--display,Bricolage,Georgia,serif);position:relative;font-size:68px;font-weight:750;line-height:.85;letter-spacing:-.035em;padding-right:60px;padding-top:12px}.ds-quiz-logo>span{color:var(--amber,#d4a373)}.ds-star{position:absolute;top:30px;right:-18px;width:85px;height:85px;fill:none;stroke:var(--amber,#d4a373);stroke-width:9;stroke-linecap:butt}.ds-quiz-tagline{font-size:12px;margin-top:20px;color:#d0c9bc}.ds-quiz-open{position:absolute;bottom:23px;right:25px;display:grid;place-items:center;width:34px;height:34px;border:1px solid #f6f4ee60;border-radius:50%;transition:background .2s ease}.ds-quiz:hover .ds-quiz-open{background:#f6f4ee18}.ds-quiz-open svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}.ds-quiz-open svg{width:17px;height:17px}.ds-quiz:focus-visible{outline:3px solid var(--crimson,#9e2a2b);outline-offset:6px;border-radius:3px}@media(max-width:1000px){.ds-quiz{height:250px}}@media(max-width:700px){.ds-quiz-edge{font-size:10px;left:22px;top:22px}}@media(prefers-reduced-motion:reduce){.ds-quiz,.ds-quiz-open{transition:none}}"
+    },
+    {
+      "name": "Letter-Card Hand",
+      "kind": "custom",
+      "refersTo": "playing-card",
+      "description": "Decorative PLAY hand; backwards fill releases the transform for hover.",
+      "html": "<div class=\"ds-scene\" aria-hidden=\"true\"><div class=\"ds-hand\"><div class=\"ds-card ds-p\"><span class=\"ds-corner\">P</span><span class=\"ds-letter\">P</span><span class=\"ds-corner ds-bottom\">P</span></div><div class=\"ds-card ds-l\"><span class=\"ds-corner\">L</span><span class=\"ds-letter\">L</span><span class=\"ds-corner ds-bottom\">L</span></div><div class=\"ds-card ds-a\"><span class=\"ds-corner\">A</span><span class=\"ds-letter\">A</span><span class=\"ds-corner ds-bottom\">A</span></div><div class=\"ds-card ds-y\"><span class=\"ds-corner\">Y</span><span class=\"ds-letter\">Y</span><span class=\"ds-corner ds-bottom\">Y</span></div></div></div>",
+      "css": ".ds-scene{position:relative;min-width:0;height:350px;isolation:isolate}.ds-hand{position:absolute;inset:0}.ds-card{font-family:var(--display,Bricolage,Georgia,serif);position:absolute;top:55px;left:calc(50% - 80px);width:156px;height:218px;border-radius:14px;transform-origin:50% 140%;box-shadow:0 10px 24px #4a2e1b1c;display:flex;align-items:center;justify-content:center;background:#fffdf6;color:var(--crimson,#9e2a2b);border:1px solid #d8d1c4;transform:translateX(var(--shift)) rotate(var(--angle));transition:transform .65s cubic-bezier(.16,1,.3,1);animation:ds-deal .85s cubic-bezier(.16,1,.3,1) backwards}.ds-p{--angle:-25deg;--shift:-86px;background:var(--crimson,#9e2a2b);color:var(--cotton,#f6f4ee);border-color:var(--crimson,#9e2a2b)}.ds-l{--angle:-9deg;--shift:-28px;animation-delay:70ms}.ds-a{--angle:10deg;--shift:29px;background:var(--amber,#d4a373);color:var(--brown,#4a2e1b);border-color:var(--amber,#d4a373);animation-delay:140ms}.ds-y{--angle:27deg;--shift:88px;animation-delay:210ms}.ds-corner{position:absolute;top:10px;left:15px;font-size:22px;font-weight:650}.ds-bottom{inset:auto 15px 10px auto;transform:rotate(180deg)}.ds-letter{font-size:110px;font-weight:750;line-height:1}.ds-scene:hover .ds-p{transform:translateX(-103px) rotate(-29deg)}.ds-scene:hover .ds-y{transform:translateX(105px) rotate(31deg)}@keyframes ds-deal{from{transform:translateX(0) rotate(0)}to{transform:translateX(var(--shift)) rotate(var(--angle))}}@media(max-width:1000px){.ds-card{width:126px;height:180px;left:calc(50% - 63px)}.ds-scene{height:310px}.ds-letter{font-size:90px}.ds-p{--shift:-60px}.ds-l{--shift:-20px}.ds-a{--shift:20px}.ds-y{--shift:60px}}@media(min-width:701px) and (max-width:1100px){.ds-hand{transform:scale(.75);transform-origin:center}}@media(max-width:700px){.ds-scene{height:260px}.ds-card{top:38px;width:125px;height:174px}.ds-letter{font-size:88px}.ds-corner{font-size:18px}.ds-p{--shift:-67px}.ds-l{--shift:-23px}.ds-a{--shift:23px}.ds-y{--shift:67px}.ds-hand{transform:scale(.78);transform-origin:center 44%}.ds-scene:hover .ds-p{transform:translateX(-74px) rotate(-28deg)}.ds-scene:hover .ds-y{transform:translateX(74px) rotate(30deg)}}@media(max-width:380px){.ds-hand{transform:scale(.64)}}@media(prefers-reduced-motion:reduce){.ds-card{animation:none;transition:none}.ds-scene:hover .ds-p,.ds-scene:hover .ds-y{transform:translateX(var(--shift)) rotate(var(--angle))}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Independent Games Workshop",
+    "overview": "Warm paper, confident lettering and familiar game geometry make this feel like a small maker's invitation to play. Generous open space gives the games room to speak; crimson and amber provide the personality.\n\nTypography, CSS and inline vectors create the artwork. There are no shipping raster images. The letter-card hand is the signature expression, with a short deal and a modest hover spread.",
+    "keyCharacteristics": [
+      "Warm cotton surfaces and charcoal text.",
+      "Characterful display lettering with quiet, readable body copy.",
+      "Unboxed content beneath distinct rounded game artwork.",
+      "Restrained motion with a static reduced-motion treatment."
+    ],
+    "rules": [
+      {
+        "name": "The Contrast Rule",
+        "body": "Keep body text in ink or muted gray on cotton; amber is a detail color, with brown lettering when it becomes a surface.",
+        "section": "colors"
+      },
+      {
+        "name": "The Paper Depth Rule",
+        "body": "Reserve the observed shadow for the playing-card illustration; use tone and whitespace for content structure.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use local Bricolage and Manrope with their supplied fallback stacks.",
+      "Do preserve open content, warm surfaces and clear game-specific artwork.",
+      "Do preserve visible keyboard focus and the static reduced-motion hand.",
+      "Do keep project art as typography, CSS geometry and inline vectors."
+    ],
+    "donts": [
+      "Don't add enclosing shadows to the project content.",
+      "Don't retain the deal animation's final transform with forwards or both fill mode.",
+      "Don't make the Google Play availability note interactive without a real supplied URL."
+    ]
+  }
+}
