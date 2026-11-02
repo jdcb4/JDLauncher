@@ -28,6 +28,8 @@ npm run deploy
 
 Local OAuth authentication is sufficient; no secret values belong in this repository. Non-interactive deployment can use `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`, with Pages edit permission scoped to this account.
 
+Contact links use Cloudflare's `email_off` comments so the address and mailto links remain usable without JavaScript. `_headers` permits the existing Cloudflare Web Analytics beacon and its connections; the homepage itself has no application scripts.
+
 Both public domains were already assigned to this Pages project on 2 November 2026, and both served the old launcher with HTTP 200 directly. No active redirect to GitHub was observed. This change replaces the static content in place, preserving the existing domain associations. No other project subdomains or mail records need changes.
 
 ## Verify and roll back
